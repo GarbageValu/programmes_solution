@@ -1,2 +1,0 @@
-# programmes_solution
-lightoj
